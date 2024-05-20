@@ -1,2 +1,2 @@
-# supercast
+# Supercast
 Supercast signup
